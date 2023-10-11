@@ -1,2 +1,2 @@
 # tanujs-portfolio
-Portfolio website of Tanuj Paraste
+Tanuj Paraste's Portfolio Website
